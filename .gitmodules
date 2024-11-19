@@ -1,0 +1,6 @@
+[submodule "animal-disease-recognition"]
+	path = animal-disease-recognition
+	url = https://github.com/Kshitijk14/animal-disease-recognition
+[submodule "plant-disease-classification"]
+	path = plant-disease-classification
+	url = https://github.com/Kshitijk14/plant-disease-classification
